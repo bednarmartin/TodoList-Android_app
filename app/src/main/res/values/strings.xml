@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TodoApp Bednar</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="add_a_new_item">add a new item</string>
+    <string name="todo_list">Todo List</string>
+</resources>
